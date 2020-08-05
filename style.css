@@ -75,19 +75,19 @@ section p{
 
 /* Sekcja z grafiką */
 section#home {
-    background: url('images/pawel-czerwinski-tMbQpdguDVQ-unsplash.jpg') no-repeat center center/cover;
+    background: url('images/home.jpg') no-repeat center center/cover;
 }
 
 section#about {
-    background: url('images/emile-perron-xrVDYZRGdw4-unsplash.jpg') no-repeat center center/cover;
+    background: url('images/about.jpg') no-repeat center center/cover;
 }
 
 section#service {
-    background: url('images/annie-spratt-hWJsOnaWTqs-unsplash.jpg') no-repeat center center/cover;
+    background: url('images/service.jpg') no-repeat center center/cover;
     /*background: url('https://source.unsplash.com/K2tdx2mFDHc/1600x900') no-repeat center center/cover;*/
 }
 
 section#contact {
-    background: url('images/pavan-trikutam-71CjSSB83Wo-unsplash.jpg') no-repeat center center/cover;
+    background: url('images/contact.jpg') no-repeat center center/cover;
 }
 
